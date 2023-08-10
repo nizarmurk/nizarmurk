@@ -54,6 +54,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nizarmurk/nizarmurk/output/snake.svg" alt="Snake animation" />
-
 ###
